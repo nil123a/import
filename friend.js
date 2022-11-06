@@ -11,4 +11,4 @@ let friendslist =[
  ]
 
 
- export{friendslist};
+ export {friendslist};
